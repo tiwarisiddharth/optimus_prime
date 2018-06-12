@@ -1,12 +1,5 @@
-;fuck 
-;i am so fucked
-;okay so i am gonna just write all the bullshit here to explain myself when i am wrong.
-
 ;old prime checker
 ;(define (try y) (if (= y x) 1 (if (< x 1) 0 (if (= 0 (mod x y)) 0 (try (1+ y))))))
-
-
-
 ;read from file cpo
 ;into list lis
 
